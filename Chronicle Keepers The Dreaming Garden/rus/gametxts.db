@@ -1,0 +1,74 @@
+'|'
+noresolution|Оконный режим не поддерживается в вашем текущем разрешении.
+newitem|Новый предмет
+found_new_item|Найден новый предмет! 
+found_new_items|Найден новый предмет! 
+skipdialog|Пропуск диалога
+nextdialog|Дальше
+tutorial|Обучение
+skiptutorial|Пропуск обучения
+book_notes|З|а|м|е|т|к|и
+book_objectives|З|а|д|а|ч|и
+book_magic|М|а|г|и|я
+youarehere|Вы здесь
+areyousure|Вы уверены?
+skipintro|Нажмите, чтобы пропустить
+newplayer|Kinnat
+pause|Пауза
+mode1|Медальоны в сценах поиска скрытых объектов выделяются зеленым цветом. Кнопки Подсказка и Пропуск быстро перезаряжаются. Блестки указывают на активные зоны.
+mode2|Медальоны в сценах поиска скрытых объектов выделяются. Кнопки Подсказка и Пропуск перезаряжаются медленно. Блестки указывают на активные зоны.
+mode3|Медальоны в эпизодах скрытых объектов не подсвечиваются. Нет кнопки Пропуск или Подсказка. Блестки отключены.
+
+
+magic_updated|Волшебная книга обновлена!
+
+ad00_endintro|Морской берег
+ad01_widokogolny|Камера
+ad02_brama|Ворота
+ad03_placglowny|Руины замка
+ad04_brzegjeziora|Берег
+ad05_lodz|Лодка
+ad06_posagmamy|Статуя матери
+ad07_alejadrzew|Аллея деревьев
+ad08_latajacecospod|Башня
+ad09_polekoniczyny|Магическая расселина
+ad10_ogrodrozany|Сад с розами
+ad11_altana|Беседка
+ad12_latajacecosna|Ангельские ворота
+ad12_latajacecoszabrama|Поляна
+ad13_wiszacymost|Подвесной мост
+ad14_wielkiedrzewo|Большое дерево
+ad15_schody|Каменные ворота
+ad16_ogrodyzamkowe|Сады у замка
+ad17_fontanna|Фонтан
+ad18_szklarnia|Парник
+ad19_szopa|Сарай
+ad20_zamekdrzewo|Замок на дереве
+ad21_holglowny|Главный зал
+ad24_schody|Лестница
+ad25_sypialnia|Спальня
+ad27_lazienka|Ванная 
+ad28_balkon|Балкон
+ad25a_lustro|Магическое зеркало
+ad22_kuchnia|Кухня
+ad23_spizarnia|Кладовая
+ad29_winiarnia|Винный погреб
+ad29_beczka1|Виноградное вино
+ad29_beczka2|Вишневое вино
+ad29_beczka3|Вино из ежевики
+ad29_beczka4|Сливовое вино
+ad30_podziemia|Подземелье
+ad31_salatortur|Камера пыток
+ad33_ukrytypokoj|Скрытая комната
+ad33A_kominek|Камин
+ad32_pracownia|Лаборатория
+ad40_pomost|Трап
+ad41_statek|Корабль
+ad42_poklad|Палуба
+ad43_pokoj|Комната
+ad44_strych|Чердак
+ad46_podwodna|Затонувший город
+ad47_szafa|Затонувшая мэрия
+ad04_brzegjeziora_night|Берег
+ad05_lodz_night|Лодка
+ad06_posagmamy_night|Статуя матери
